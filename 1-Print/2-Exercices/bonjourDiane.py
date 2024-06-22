@@ -1,0 +1,1 @@
+# Afficher dans la console "Bonjour Diane :)" a l'aide de la fonction PRINT
